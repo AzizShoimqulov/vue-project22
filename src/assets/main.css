@@ -2,3 +2,9 @@ body{
   background-color: rgb(114, 151, 151);
   text-align: center;
 }
+
+/* Hide vite-plugin-vue-devtools panel overlay (debug only). */
+.vue-devtools__panel,
+.vue-devtools__panel * {
+  display: none !important;
+}
