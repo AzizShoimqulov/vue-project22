@@ -11,5 +11,8 @@ import Started from './components/started.vue'
 </template>
 
 <style>
-
+  .app{
+    hight: 100vh;
+    color: #000
+  }
 </style>
