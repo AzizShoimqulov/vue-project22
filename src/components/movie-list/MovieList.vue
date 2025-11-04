@@ -8,6 +8,6 @@ export default {
     
 }
 </script>
-<style scopedf>
+<style scoped>
     
 </style>
