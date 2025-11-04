@@ -6,6 +6,7 @@ import Started from './components/started.vue'
   <div class="app">
     <div class="content">
       <Started/>
+      <div class="search-panel"></div>
     </div>
   </div>
 </template>
