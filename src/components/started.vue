@@ -1,3 +1,3 @@
 <template>
-  <h1>app Info</h1>
+  <h1>App Info</h1>
 </template>
