@@ -7,14 +7,14 @@ import Started from './components/started.vue'
     <div class="content">
       <Started/>
       <div class="search-panel">
-        
+
       </div>
     </div>
   </div>
 </template>
 
 <style>
-  .app{
+.app{
     height: 100vh;
     color: #000;
   }
