@@ -3,7 +3,11 @@ import Started from './components/started.vue'
 </script>
 
 <template>
-  <Started />
+  <div class="app">
+    <div class="content">
+      <Started/>
+    </div>
+  </div>
 </template>
 
 <style>
