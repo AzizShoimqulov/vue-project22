@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import SearchPanel from './components/Search-panel.vue';
 import Started from './components/started.vue'
 </script>
 
@@ -7,7 +8,7 @@ import Started from './components/started.vue'
     <div class="content">
       <Started/>
       <div class="search-panel">
-
+        <SearchPanel/>
       </div>
     </div>
   </div>
