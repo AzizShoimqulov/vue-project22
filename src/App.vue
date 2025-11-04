@@ -12,7 +12,14 @@ import Started from './components/started.vue'
 
 <style>
   .app{
-    hight: 100vh;
-    color: #000
+    height: 100vh;
+    color: #000;
+  }
+  .content{
+    width: 1000px;
+    min-height: 700px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 5rem 0;
   }
 </style>
