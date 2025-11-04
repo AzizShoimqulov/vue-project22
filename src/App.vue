@@ -5,3 +5,7 @@ import Started from './components/started.vue'
 <template>
   <Started />
 </template>
+
+<style>
+
+</style>
