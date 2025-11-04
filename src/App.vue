@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import AppFilter from './components/app-filter.vue';
 import SearchPanel from './components/Search-panel.vue';
 import Started from './components/started.vue'
 </script>
@@ -9,6 +10,7 @@ import Started from './components/started.vue'
       <Started/>
       <div class="search-panel">
         <SearchPanel/>
+        <AppFilter/>
       </div>
     </div>
   </div>
