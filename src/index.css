@@ -4,7 +4,6 @@
 
 /* Project custom styles (kept after Tailwind directives) */
 body{
-	background-color: rgb(114, 151, 151);
 	text-align: center;
 }
 

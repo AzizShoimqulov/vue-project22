@@ -1,6 +1,7 @@
 <template>
-  <div>
-    <h1>App Info</h1>    
+  <div class="started">
+    <h1>Barcha kinolar:2</h1>  
+    <h1>Sevimli film:2</h1>  
   </div>
 </template>
 
@@ -11,5 +12,8 @@ export default {}
 
 
 <style>
-
+.started{
+    font-size: 2.5rem;
+    font-weight: 500;
+}
 </style>

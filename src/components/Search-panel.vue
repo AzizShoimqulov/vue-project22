@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Search panel</h1>
+        <input type="text" placeholder="Kinolarni qidirish"/>
     </div>
 </template>
 
