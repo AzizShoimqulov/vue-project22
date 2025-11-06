@@ -1,6 +1,6 @@
 <template>
     <div class="app-info">
-        <p class="fs-3"></p>
+        <p class="mb-20"></p>
     </div>
 </template>
 
