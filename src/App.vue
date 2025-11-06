@@ -19,6 +19,7 @@ import MovieAddForm from './components/movie-list/MovieAddForm.vue';
 import MovieList from './components/movie-list/MovieList.vue';
 import SearchPanel from './components/Search-panel.vue';
 import Started from './components/started.vue';
+
 </script>
 
 
