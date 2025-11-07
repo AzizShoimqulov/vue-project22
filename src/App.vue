@@ -54,11 +54,6 @@ import Started from './components/started.vue';
     box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.15);
   }
   .movie{
-    margin-bottom: 2rem;
-    padding: 1.8rem;
-    margin-top: 25px;
-    background-color: #f5eedf;
-    border-radius: 8px;
-    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.15);
+
   }
 </style>
