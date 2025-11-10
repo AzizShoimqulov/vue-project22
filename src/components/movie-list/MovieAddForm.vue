@@ -1,3 +1,11 @@
+        <script setup>
+            const msg = 'Salom Dunyo';
+            function log(){
+                console.log(msg);
+            }
+        </script>
+
+
 <template>
     <div class="movie-form">
         <h1>Yangi kino qushish</h1>
@@ -5,14 +13,11 @@
         </div>
         <input type="text" placeholder="Qanday kino?">
         <input type="text" placeholder="Nechi marotaba ko'rilgan?">
-        <button>Qo'shish</button>
+        <button @click="log">Qo'shish</button>
     </div>
 </template>
 
 
-<script>
-export default {}
-</script>
 
 
 <style scoped>    

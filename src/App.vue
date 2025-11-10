@@ -53,7 +53,4 @@ import Started from './components/started.vue';
     border-radius: 4px;
     box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.15);
   }
-  .movie{
-
-  }
 </style>
